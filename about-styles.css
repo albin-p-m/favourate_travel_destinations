@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contents{
+    padding: 30px 100px;
+    text-align: center;
+}
+
+.contents > h2{
+    padding-bottom: 50px;
+}
